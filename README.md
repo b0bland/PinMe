@@ -1,4 +1,4 @@
-# the-first-big-project
+# PinME
 
 ![GIF of app at work](assets/images/site.gif "Animation of the app working")
 
