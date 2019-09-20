@@ -1,4 +1,6 @@
-# the-first-big-project
+# PinMe
+
+![Deployed Link](https://phillipchang.github.io/PinMe)
 
 ![GIF of app at work](assets/images/site.gif "Animation of the app working")
 
